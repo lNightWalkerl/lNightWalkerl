@@ -1,5 +1,4 @@
-## Hi there 👋
-### I'm using GitHub...
+![](https://github.com/lNightWalkerl/AssetsNW/blob/main/Night%20Walker%202.png)
 
 <!--
 **lNightWalkerl/lNightWalkerl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
